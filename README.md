@@ -23,6 +23,7 @@
 - [Sora](https://openai.com/sora) - OpenAI's text-to-video model (limited access).
 - [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model.
 - [Runway Gen-3 Alpha](https://runwayml.com) - Text-to-video with cinematic quality.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) - Open-source studio and CLI for generating two-host AI podcast videos.
 
 ## Video Editing AI
 
