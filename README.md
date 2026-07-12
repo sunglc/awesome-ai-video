@@ -17,6 +17,7 @@
 - [Kling AI](https://klingai.com) - High-fidelity image-to-video with strong motion consistency.
 - [Stable Video Diffusion](https://stability.ai) - Open-source image-to-video model from Stability AI.
 - [Pika](https://pika.art) - Creative video generation with text and image inputs.
+- [ImagineClip](https://imagineclip.com/ai-image-to-video) - Browser-based image-to-video workflow for stylized social clips and visual effects.
 
 ## Text-to-Video Tools
 
