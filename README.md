@@ -37,6 +37,7 @@ Tools specifically designed for creating YouTube Shorts, Instagram Reels, and Ti
 - [Popcorn AI](https://popcornai.art) - Image-to-video optimized for short-form social content.
 - [InVideo AI](https://invideo.io) - AI video creation with templates.
 - [Pictory](https://pictory.ai) - Turn articles into short videos.
+- [videos.social](https://videos.social/?utm_source=sunglc-awesome-ai-video&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 
 ## Learning Resources
 
