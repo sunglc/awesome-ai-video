@@ -23,6 +23,7 @@
 - [Sora](https://openai.com/sora) - OpenAI's text-to-video model (limited access).
 - [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model.
 - [Runway Gen-3 Alpha](https://runwayml.com) - Text-to-video with cinematic quality.
+- [SEELE TV](https://seele.tv/) - Browser-based AI video creation studio.
 
 ## Video Editing AI
 
