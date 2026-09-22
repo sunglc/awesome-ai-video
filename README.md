@@ -30,6 +30,8 @@
 - [CapCut](https://capcut.com) - AI features for quick video editing and captions.
 - [Opus Clip](https://opus.pro) - AI-powered clip extraction from long-form video.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent video composition and editing from editable plan.json timelines; install from source.
+
 ## Short-Form Video Creation
 
 Tools specifically designed for creating YouTube Shorts, Instagram Reels, and TikTok content:
