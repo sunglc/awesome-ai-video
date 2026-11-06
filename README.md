@@ -14,6 +14,8 @@
 
 - [Popcorn AI](https://popcornai.art) - Turn images into short-form videos for YouTube Shorts, Instagram Reels, and TikTok. Designed for content creators.
 - [Runway Gen-3](https://runwayml.com) - Professional-grade image and text to video generation.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Kling AI](https://klingai.com) - High-fidelity image-to-video with strong motion consistency.
 - [Stable Video Diffusion](https://stability.ai) - Open-source image-to-video model from Stability AI.
 - [Pika](https://pika.art) - Creative video generation with text and image inputs.
